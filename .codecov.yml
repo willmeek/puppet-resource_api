@@ -1,0 +1,5 @@
+---
+codecov:
+  notify:
+    # wait until all cells have processed. This reduces comment (notification) spam drastically.
+    after_n_builds: 8
